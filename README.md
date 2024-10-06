@@ -43,18 +43,6 @@ To run any project from this repository:
    git clone https://github.com/Aminur79/Py-D-Proj.git
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd python-daily-projects
-   ```
-
-3. Run the script of your choice:
-
-   ```bash
-   python script_name.py
-   ```
-
 *(Replace `script_name.py` with the specific file name you want to execute.)*
 
 ## 🎓 Purpose
