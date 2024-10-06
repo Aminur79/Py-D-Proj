@@ -40,7 +40,7 @@ To run any project from this repository:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/python-daily-projects.git
+   git clone https://github.com/Aminur79/Py-D-Proj.git
    ```
 
 2. Navigate to the project directory:
